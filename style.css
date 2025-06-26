@@ -1,0 +1,180 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #140132;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  background: rgb(246, 0, 0);
+  padding: 30px;
+  box-shadow: 0 0 10px rgba(235, 17, 17, 0.1);
+  border-radius: 10px;
+}
+
+img {
+  width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 20px;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #555;
+  text-align: center;
+}
+
+
+
+
+.ganeshh.jpeg {
+  width: 300px;
+  border-radius: 15px;
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+}
+body {
+  background-color: #f9f9f9;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.tamil-heading {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 40px;
+  color: #0280fe;
+}
+header h1 {
+  margin: 0;
+  font-size: 36px;
+  color: rgb(0, 0, 0);
+  text-shadow: none;      /* Make sure no shadow is applied */
+  border: none;           /* Remove any borders */
+  outline: none;          /* Remove focus outline */
+  box-shadow: none;       /* Remove any box shadows */
+}
+
+.tamil-heading {
+  font-size: 36px;
+  color: #b30000;
+  text-shadow: none;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+*:focus {
+  outline: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Catamaran', sans-serif;
+  background-color: #d7a839; /* Light cream/gold tone for traditional feel */
+  color: #a87070;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Catamaran', sans-serif;
+  background: linear-gradient(to bottom right, #eab435, #ffe0b2);
+  color: #6a3232;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Catamaran', sans-serif;
+  background: url("bg-temple.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #d46b6b;
+}
+body {
+  background-color: #d89bf1; /* Light blue */
+}
+.rangoli-img {
+  width: 100px;               /* You can adjust size */
+  height: 100px;              /* Ensure it's square for perfect circle */
+  border-radius: 50%;         /* Makes it round */
+  background-color: #d0e7f9;  /* Matches body background */
+  display: block;
+  margin: 20px auto;
+  object-fit: cover;          /* Ensures image fills circle neatly */
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+  border: 4px solid white;    /* Optional: adds a white circular border */
+}
+.register-btn {
+  display: inline-block;
+  padding: 14px 28px;
+  background: linear-gradient(to right, #ff6600, #cc0000);
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Catamaran', sans-serif;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  text-decoration: none;
+  transition: transform 0.2s ease, background 0.3s ease;
+  margin-top: 20px;
+}
+
+.register-btn:hover {
+  background: linear-gradient(to right, #cc0000, #800000);
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
+}
+.top-nav-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background-color: #b30000;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 6px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  transition: background 0.3s, transform 0.2s ease;
+}
+
+.top-nav-btn:hover {
+  background-color: #800000;
+  transform: scale(1.05);
+}
+.bottom-contact-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #6bc69a;
+  color: rgb(80, 88, 130);
+  font-size: 16px;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  z-index: 999;
+}
+
+.bottom-contact-btn:hover {
+  background-color: #800000;
+  transform: scale(1.05);
+}
+
+
+

@@ -176,6 +176,11 @@ body {
   background-color: #800000;
   transform: scale(1.05);
 }
+.gift-icon {
+  width: 30px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
 
 
 
